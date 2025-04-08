@@ -5,7 +5,8 @@ Bienvenido a mi repositorio central
 
 Este espacio está pensado como un punto de partida y organización para mis distintos proyectos de desarrollo, automatización, paradigmas e inteligencia artificial. Aquí encontrarás enlaces, documentación y referencias útiles para acceder rápidamente a lo que estoy trabajando o voy publicando.
 
-![alt text](image.png)
+<img src="image-1.png" alt="alt text" height="150"/>
+
 
 
 ## 💡 Sobre mí
