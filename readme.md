@@ -7,10 +7,10 @@ Este espacio está pensado como un punto de partida y organización para mis dis
 
 ![alt text](image.png)
 
-💡
+
 ## 💡 Sobre mí
 
- Programo aplicaciones, automatización, y de vez en cuando hago algun análisis de dato. Brindo soluciones integrando inteligencia artificial. Trabajo principalmente con **Python**, pero también tengo experiencia en **C, C++, C#, Java, etc**. Además trabajo con diversas tecnologías como **Docker, Linux, bases de datos, Arduino, Iot** y más.
+ Programo aplicaciones, automatización, y de vez en cuando hago algun análisis de dato. Brindo soluciones integrando inteligencia artificial. Trabajo principalmente con **Python**, pero también tengo experiencia en **C, C++, Java, etc**. Además trabajo con diversas tecnologías como **Docker, Linux, bases de datos, Arduino, Iot** y más.
 
 
 ## 📈 Objetivo de este repo
