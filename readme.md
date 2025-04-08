@@ -1,13 +1,13 @@
 # 👋 ¡Hola! Soy Carlos
 
 Bienvenido a mi repositorio central 
-`Carlos_Boyatjian`. Legajo:1233099 
+`CARL0S_B0YATJIAN`. Legajo:1233099 
 
 Este espacio está pensado como un punto de partida y organización para mis distintos proyectos de desarrollo, automatización, paradigmas e inteligencia artificial. Aquí encontrarás enlaces, documentación y referencias útiles para acceder rápidamente a lo que estoy trabajando o voy publicando.
 
 ![alt text](image.png)
 
-
+💡
 ## 💡 Sobre mí
 
  Programo aplicaciones, automatización, y de vez en cuando hago algun análisis de dato. Brindo soluciones integrando inteligencia artificial. Trabajo principalmente con **Python**, pero también tengo experiencia en **C, C++, C#, Java, etc**. Además trabajo con diversas tecnologías como **Docker, Linux, bases de datos, Arduino, Iot** y más.
